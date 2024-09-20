@@ -24,3 +24,19 @@
     - http://localhost:8000/status et http://localhost:8000/chat
 
 ![FastAPI Local Test](screenshot/docs.PNG)
+
+
+## Partie 2
+-  Créer un fichier Docker pour l'application FastAPI
+  
+-  Build et lancer le container localement
+    -  docker build -t fastapi-app .
+    -  docker run -d -p 8000:8000 fastapi-app
+      
+-  Tester le container avec un curl
+    -  curl -X POST http://localhost:8000/chat -H "Content-Type: application/json" -d '{"prompt":"What is a LLM?"}'
+ 
+   
+
+
+
