@@ -2,6 +2,7 @@
 
 *Etape pour l'exam*
 
+##Partie 1
 -  Création de l'environnement virtuel :
     - python -m venv venv
     - source venv/bin/activate
