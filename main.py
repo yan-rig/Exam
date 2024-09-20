@@ -19,7 +19,7 @@ class Prompt(BaseModel):
 
 @app.get("/status")
 async def get_status():
-    return {"message": "OK"}
+    return {"message": "ok"}
 
 @app.post("/chat")
 async def post_chat(prompt: Prompt):
