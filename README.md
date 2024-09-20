@@ -23,4 +23,4 @@
 - Test des routes :
     - http://localhost:8000/status et http://localhost:8000/chat
 
-![FastAPI Local Test](screenshot/docs.png)
+![FastAPI Local Test](screenshot/docs.PNG)
