@@ -1,6 +1,6 @@
 # EXAM vendredi 20/09
 
-*Etape pour l'exam*
+**Etape pour l'exam**
 
 ## Partie 1
 -  Création de l'environnement virtuel :
